@@ -11,7 +11,7 @@ name: 第一次尝试X86
 
 on:
   # push:
-   # branches: 
+  # branches: 
   #    - master
   schedule:
     - cron: 0 20 * * *
